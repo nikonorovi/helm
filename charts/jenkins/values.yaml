@@ -437,7 +437,7 @@ master:
 agent:
   enabled: true
   image: "jenkins/jnlp-slave"
-  tag: "3.27-1"
+  tag: "4.3-3"
   customJenkinsLabels: []
   # name of the secret to be used for image pulling
   imagePullSecretName:
